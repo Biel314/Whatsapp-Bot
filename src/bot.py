@@ -1,14 +1,8 @@
-from twilio_clients import client, my_phoneNumber, snd_phoneNumber
-from message_handler import sndMessage
+from reply_handler import runApp, sendInitialMessage
 
 
-def sendMessage():
-    msg = client.messages.create(
-        body=sndMessage,
-        from_=my_phoneNumber,
-        to=snd_phoneNumber,
-    )
-    print(msg.body)
-
-
-sendMessage()
+# Start the reply bot
+if __name__ == "__main__":
+    # Send the first message to the customer
+    sendInitialMessage()
+    runApp()
