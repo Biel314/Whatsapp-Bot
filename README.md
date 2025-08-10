@@ -1,4 +1,4 @@
-# :> [!WARNING]-  ⚠️ AVISO! ⚠️ 
+[!WARNING]  ⚠️ AVISO! ⚠️ 
 > 
 > Esse é um branch de teste. Algumas funções podem não estar 100% funcionais. 
 > Para garantir a funcionalidade total, fazer cloning ou pull da branch main.
