@@ -1,3 +1,12 @@
+# :> [!WARNING]-  ⚠️ AVISO! ⚠️ 
+> 
+> Esse é um branch de teste. Algumas funções podem não estar 100% funcionais. 
+> Para garantir a funcionalidade total, fazer cloning ou pull da branch main.
+>
+> https://github.com/Biel314/Whatsapp-Bot/tree/main
+
+---
+
 # 📦 ÓuGás - WhatsApp Bot para Venda de Botijões de Gás  
 
 **ÓuGás** é um sistema automatizado de atendimento via WhatsApp para revendedores de gás, desenvolvido em Python com a API da Twilio.  
